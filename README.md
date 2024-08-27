@@ -11,9 +11,9 @@ Day 1: Mastering HTML - The Building Blocks of the Web <br/>
 -HTML & Developer Console: Understanding the basics and using the console to debug. <br/>
 -First Web Page & Layout: Created my first webpage and set up the basic layout. <br/>
 -Meta Tags & Comments: Added meta information and comments for clarity. <br/>
--Headings & Paragraphs: Worked with <h1> to <h6> and <p> tags.<br/>
--HTML5 Styling: Applied basic styling with HTML5 tags.<br/>
--Formatting Tags: Used tags like <strong>, <em>, and more.<br/>
+-Headings & Paragraphs: Worked with <h1> to "<h6>" and "<p>" tags.<br/>
+-HTML5 Styling: Applied basic styling with HTML5 tags. <br/>
+-Formatting Tags: Used tags like <strong>, "<em>", and more.<br/>
 -Links & Images: Incorporated hyperlinks and images.<br/>
 -Tables & Lists: Structured content with tables and lists. <br/>
 -Multimedia: Added video and audio elements.<br/>
